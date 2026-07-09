@@ -11,7 +11,7 @@ It is a Digital Clock System that displays the current time continuously in the 
 - Real-time updates every second
 - Colored console interface
 - Simple and attractive UI 
-  
+   
 --- 
   
 ## 🛠️ Technologies Used 
