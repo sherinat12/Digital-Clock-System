@@ -15,7 +15,7 @@ It is a Digital Clock System that displays the current time continuously in the 
 --- 
    
 ## 🛠️ Technologies Used
-- C Programming Language 
+- C Programming Language  
 - GCC Compiler
 - VS Code / CodeBlocks 
 
