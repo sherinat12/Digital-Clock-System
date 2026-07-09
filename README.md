@@ -13,7 +13,7 @@ It is a Digital Clock System that displays the current time continuously in the 
 - Simple and attractive UI
   
 ---
- 
+  
 ## 🛠️ Technologies Used 
 - C Programming Language 
 - GCC Compiler
