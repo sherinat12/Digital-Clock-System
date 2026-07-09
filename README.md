@@ -10,7 +10,7 @@ It is a Digital Clock System that displays the current time continuously in the 
 - Live digital clock
 - Real-time updates every second
 - Colored console interface
-- Simple and attractive UI
+- Simple and attractive UI 
   
 ---
   
